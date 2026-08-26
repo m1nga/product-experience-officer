@@ -1,4 +1,4 @@
-# product-experience-officer
+# Experience Your Product as a First-Time User
 
 A reviewer that experiences your unreleased product as a total stranger first — and only afterwards puts the expert hat on to tell you what broke, why it hurt, and what to fix first.
 
